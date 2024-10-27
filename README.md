@@ -1,7 +1,8 @@
 # Curriculum vitae
-*Trabajo para programacion de plataformas emergentes de la Universidad Autonoma de Chihuahua.
-*Alumno: Luis Acevedo
-*Matricula 360777
+* Trabajo para programacion de plataformas emergentes de la Universidad Autonoma de Chihuahua.
+* Alumno: Luis Acevedo
+* Matricula 360777
+
 Utilizando lo aprendido de HTML y CSS, cree su propio curriculum vitae el cual debe de contener todos los siguientes elementos:
 
 1. Titulo.
